@@ -2,7 +2,7 @@
   "name": "work-organiser",
   "version": "0.0.1",
   "private": true,
-  "description": "Alpic MCP Server Template",
+  "description": "Work Organiser - AI-powered task management via Claude MCP",
   "type": "module",
   "scripts": {
     "dev": "skybridge dev",
