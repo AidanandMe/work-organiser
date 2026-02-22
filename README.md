@@ -18,7 +18,7 @@ that understands your real projects and priorities.
 
 ## Demo
 
-Built and demoed live at the Anthropic Claude Hack Night, London — 
+Built and demoed via video for the Anthropic Claude Hack Night, London — 
 February 2026.
 
 **Use case:** An AI/Digital Humanities educator and entrepreneur asks 
@@ -44,5 +44,5 @@ pnpm dev
 
 ## Team
 
-Built by **Larissa** — AI educator, digital humanities researcher
-l.terranova3@gmail.com
+Built by **Larissa** — Anthropologist, AI educator, digital humanities researcher
+
